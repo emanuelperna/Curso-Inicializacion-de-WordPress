@@ -54,3 +54,9 @@
 ---
 
 > 💡 **Tip:** WordPress tiene dos versiones — [wordpress.com](https://wordpress.com) (hosting incluido) y [wordpress.org](https://wordpress.org) (autohospedado). En este curso trabajamos con **wordpress.org** para tener control total.
+
+> ---
+
+## 📄 Licencia ®
+
+Este repositorio es de uso educativo. Contenido del **Curso WordPress 2025**.
